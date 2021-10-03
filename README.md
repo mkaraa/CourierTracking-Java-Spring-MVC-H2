@@ -14,7 +14,8 @@ All stores are loading at the beginning of the project.
 Logging all courier information with movements and entrance of stores. If any courier reenter any store  under one minute, it is not showing in logs. Creating a courier at first, his total distance is accepted zero (0). While he is moving,a total distance calculates and adding to total distance. Besides, unit tests are included.   
 
 ## USAGE OF APIs
-### courier/create : You create a courier with his first position.
+### courier/create 
+ You create a courier with his first position.<br>
 - http://localhost:8081/courier/create <br>
 <br>
 
